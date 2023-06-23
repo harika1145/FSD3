@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css" />
+        <link href="https://images.app.goo.gl/sBQPVo593eN4Dt6b8" rel="stylesheet">
+        <script src="index.js"></script>
+    </head>
+    <body>
+        <!-- 
+        Challenge 1:
+        Write the HTML for your personal website.
+        -->
+        <h1> me about my friends </h1>
+   <img src="r5">
+   <h2> facts about my friends </h2>
+   <h3> their routine actually </h3>
+   <button> wake up </button>
+   <button> again sleep</button>
+   <button> brush their teeth</button>
+   <button> bath if they wanted or no bath </button>
+   <button> sleep again</button>
+   <button> play pubg</button>
+   <table>
+       <tr>
+           <th>name</th>
+           <th>birthday</th>
+           <th>favourite food to eat </th>
+           <th>hoobies</th>
+       </tr>
+   </table>
+   <table>
+       <tr>
+                      <th>alekya</th>
+           <th>10-01-2003</th>
+           <th>cake</th>
+           <th>music</th>
+       </tr>
+           </table>
+    </body>
+</html>
